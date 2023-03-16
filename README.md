@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🚧 👷‍♀️ _Come back later ! My Readme is in progress ... ⏳ _
+
 - 📫  How to reach me: my DMs on Twitter are wide-open !
 - 😄  Pronouns: She/her
 - ⚡   Fun fact: I can't see 3D movies 😞

@@ -5,8 +5,7 @@
 - 📫  How to reach me: my DMs on Twitter are wide-open !
 - 😄  Pronouns: She/her
 - ⚡   Fun fact: I can't see 3D movies 😞
-
-![](https://komarev.com/ghpvc/?username=leiluspocus&color=green)
+ 
 
 <!--
 **leiluspocus/leiluspocus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

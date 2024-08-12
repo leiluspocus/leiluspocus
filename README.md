@@ -4,7 +4,7 @@ I'm a Software Engineer, based in Paris, France with a profound interest in peda
 
 **About me**
 
-- My MBTI profile is [INFP](https://www.16personalities.com/fr/la-personnalite-infp) for what it's worth 🤷‍♀️ 
+- My MBTI profile is sometimes [INFP](https://www.16personalities.com/fr/la-personnalite-infp) or [INFJ](https://www.16personalities.com/fr/la-personnalite-infj) for what it's worth 🤷‍♀️ 
 - Amongst all my previous experiences, I always been very product-oriented. I need to understand the usage of the final user to develop properly 🤔 
 - I'm really passionate about refactoring and leaving the campground cleaner than I found it 🏕️
 - I tend to speed on things when I'm nervous and I could definitely get better at front-end and unit testing 🤕

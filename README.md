@@ -1,11 +1,22 @@
-### Hi there 👋
+### Hi, I'm Laïla 👋
 
-🚧 👷‍♀️ _Come back later ! My Readme is in progress ..._ ⏳
+I'm a Software Engineer, based in Paris, France with a profound interest in pedagogy and culture.
 
-- 📫  How to reach me: my DMs on Twitter are wide-open !
-- 😄  Pronouns: She/her
-- ⚡   Fun fact: I can't see 3D movies 😞
- 
+**About me**
+
+- My MBTI profile is [INFP](https://www.16personalities.com/fr/la-personnalite-infp) for what it's worth 🤷‍♀️ 
+- Amongst all my previous experiences, I always been very product-oriented. I need to understand the usage of the final user to develop properly 🤔 
+- I'm really passionate about refactoring and leaving the campground cleaner than I found it 🏕️
+- I tend to speed on things when I'm nervous and I could definitely get better at front-end and unit testing 🤕
+- I'm a Tech Coach for students of [Ada Tech School](https://adatechschool.fr/) since January 2023, also a content writer for Ada since summer 2024 🧑‍🎓
+
+
+**Outside of work**
+
+Ask me about 
+- Cinema / books : I try to speak about my last discoveries [here](https://www.instagram.com/esquisses.wow) 📚
+- I'm a baby _aquarellist_ ! 👩‍🎨
+- My bike 🚴‍♀️ and I'm a baby runner 🏃‍♀️
 
 <!--
 **leiluspocus/leiluspocus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

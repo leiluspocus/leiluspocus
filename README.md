@@ -8,6 +8,7 @@ I'm a Software Engineer, based in Paris, France with a profound interest in peda
 - Amongst all my previous experiences, I always been very product-oriented. I need to understand the usage of the final user to develop properly 🤔 
 - I'm really passionate about refactoring and leaving the campground cleaner than I found it 🏕️
 - I tend to speed on things when I'm nervous and I could definitely get better at front-end and unit testing 🤕
+- I'm a Freelance Fullstack Developer, my stack is Symfony / Node.js / React / Vue. 
 - I'm a Tech Coach for students of [Ada Tech School](https://adatechschool.fr/) since January 2023, also a content writer for Ada since summer 2024 🧑‍🎓
 
 

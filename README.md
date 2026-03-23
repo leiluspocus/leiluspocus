@@ -16,8 +16,8 @@ I'm a Software Engineer, based in Paris, France with a profound interest in peda
 
 Ask me about 
 - Cinema / books : I try to speak about my last discoveries [here](https://www.instagram.com/esquisses.wow) 📚
-- I'm a baby _aquarellist_ ! 👩‍🎨
-- My bike 🚴‍♀️ and I'm a baby runner 🏃‍♀️
+- I'm an _aquarellist_ ! 👩‍🎨
+- My bike 🚴‍♀️ and my last half-marathon 🏅 (yes, I run like many other millenials) 🏃‍♀️
 
 <!--
 **leiluspocus/leiluspocus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
